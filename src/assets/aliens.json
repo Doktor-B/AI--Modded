@@ -3,12 +3,14 @@
         "0": "The alien's actions or associated incidents are disinterested in sex, focusing on the alien's survival motives.",
         "1": "The alien's actions or associated incidents are often sexually charged--laced with suggestive imagery but little more",
         "2": "The alien's actions or associated incidents are overtly sexualized and erotic.",
-        "3": "The alien's actions or associated incidents are hypersexualized and disturbingly fetishistic, incorporating taboo and depraved concepts at the extreme fringe of eroticism."
+        "3": "The alien's actions or associated incidents are hypersexualized and fetishistic, incorporating taboo and depraved concepts at the extreme fringe of eroticism.",
+        "4": "The alien's actions or associated incidents are hypersexualized, aimed towards aggresive and industrial reproduction."
     },
     "violenceLevelDescriptions": {
-        "0": "The alien is nefarious and combative, but in a non-graphic, generally less lethal fashion.",
-        "1": "The alien and events surrounding it are often violent and visceral.",
-        "2": "The alien and events surrounding it are frequently grotesque, macabre, and extremely gory."
+        "0": "The alien is not combative, non-lethal, and more interested in it's goals or sex.",
+        "1": "The alien is nefarious but non-lethal, more interested in it's goals or sex.",
+        "2": "The alien and events surrounding it are often violent, non-lethal, and sexually aggresive.",
+        "3": "The alien and events surrounding it are frequently grotesque, macabre, and extremely gory."
     },
     "aliens": {
         "Shoggoth": {
